@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Mate SC
+- Font Author: Copyright (c) 2011, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name "Mate"
+- Font Source: http://fonts.gstatic.com/s/matesc/v9/-nF8OGQ1-uoVr2wKyiXZ95OkJwA.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)

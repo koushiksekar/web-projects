@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(227, 230, 221);
+   }
+
+   hr{
+      border-style: none;
+      border-top-style: dotted;
+      border-width: 7px;
+      border-color: grey;
+      width: 4%;
+   }
+
+   h1{
+       color: cadetblue;
+   }
+
+   h2{
+       color: cadetblue;
+   }
+
+   h3{
+       color: cadetblue;
+   }
+
+   ul{
+       color: crimson;
+   }

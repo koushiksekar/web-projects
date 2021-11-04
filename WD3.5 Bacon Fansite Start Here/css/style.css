@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(247, 242, 234);
+}
+h1{
+    color: olive;
+}
+
+img:hover{
+    background-color:khaki;
+}
+img:visited{
+    color: lemonchiffon;
+}
+p:hover{ 
+    color: pink;
+}
+p:visited{
+   color: rgb(72, 211, 59);
+}
+
+/*-----  css selectors---*/
+
+.bacon{
+    background-color: green;
+}
+.broccoli{
+    background-color: greenyellow;
+}
